@@ -1,4 +1,3 @@
-# Smart-MIrror
-<p>A smart mirror that shows you the time and date, weather, news and your events of the day from google calendar.</p>
-<p></p>
-
+# Smart-Mirror
+<p>This DIY Smart Mirror project has been done with the help of an old Android tablet, a glass panel and one way mirror film.</p>
+<p>The idea behind this project is for a cheap alternative to the pricey smart mirrors on the market that can provide basic information such as the date and time, weather information, some news tickers and that will also show your upcoming events of the day from your Google Calendar.</p>
